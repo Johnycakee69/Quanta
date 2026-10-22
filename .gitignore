@@ -1,0 +1,26 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Asset meta data should NOT be ignored (they are needed for version control)
+# However, these specific generated files can be ignored:
+*.csproj
+*.sln
+*.slnx
+*.userprefs
+*.unityproj
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# End of https://www.gitignore.io/api/unity
